@@ -1,9 +1,8 @@
 ## about me
-hello🙋, i am lane，a small front-end development, professional handyman、serve tea and water👀, learning about front-end architecture design, simple back-end API development, and containerized deployment～
+hello🙋, i am lane，a small front-end development, brickspert、serve tea and water👀, learning about front-end architecture design, simple back-end API development, and containerized deployment～
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=rookie-luochao&show_icons=true)
-
-<!-- ![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=rookie-luochao&langs_count=8&layout=compact) -->
+![top langs](https://github-readme-stats.vercel.app/api/top-langs?username=rookie-luochao&langs_count=8&layout=compact)
 
 ### technologies that I am familiar with and interested in
 
@@ -11,7 +10,7 @@ hello🙋, i am lane，a small front-end development, professional handyman、se
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-E34F26.svg?style=flat&logo=css3&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-2496ED.svg?style=flat&logo=go&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=white)
 ![Next](https://img.shields.io/badge/Next.js-000000.svg?style=flat&logo=next.js&logoColor=white)
